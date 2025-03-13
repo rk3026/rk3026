@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ross
+I'm a SE student studying at WSU Everett.
 
-<!--
-**rk3026/rk3026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Skills & Interests:
+- Programming Languages: Python | Java | C++ | C# | Haskell | SQL | Assembly
+- Tools: Git | Github | Azure Cloud | Azure DevOps | MySQL | QtDesigner | WPF | Winforms | .NET
+- Game Development: MonoGame | Godot
 
-Here are some ideas to get you started:
+## 📊 Stats:
+![Ross's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk3026&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me:
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rk3026)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosskugler)
