@@ -3,7 +3,7 @@ I'm a SE student studying at WSU Everett.
 
 ## 🔬 Skills & Interests:
 - Programming Languages: Python | Java | C++ | C# | Haskell | SQL | Assembly
-- Tools: Git | Github | Azure Cloud | Azure DevOps | MySQL | QtDesigner | WPF | Winforms | .NET
+- Tools: Git | Azure Cloud | Azure DevOps | MySQL | QtDesigner | WPF | Winforms | .NET
 - Game Development: MonoGame | Godot
 
 ## 📊 Stats:
