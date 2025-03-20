@@ -11,4 +11,4 @@ I'm a SE student studying at WSU Everett.
 
 ## 🔗 Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rk3026)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosskugler)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosskugler](https://www.linkedin.com/in/ross-kugler-b95638324/))
