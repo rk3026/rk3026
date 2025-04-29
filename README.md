@@ -1,5 +1,5 @@
 # Hi, I'm Ross
-I'm a SE student studying at WSU Everett.
+I like video games and making cool software.
 
 ## 🔬 Skills & Interests:
 - Programming Languages: Python | Java | C++ | C# | Haskell | SQL | Assembly | Javascript
