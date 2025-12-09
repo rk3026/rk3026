@@ -1,3 +1,5 @@
+![profile_tui](https://github.com/user-attachments/assets/7d034a88-e9e7-4886-8b7f-457fcd3247ef)
+
 # Hi, I'm Ross
 I like video games and making cool software.
 
@@ -5,18 +7,6 @@ I like video games and making cool software.
 - Programming Languages: Python | Java | C++ | C# | Haskell | SQL | Assembly | Javascript
 - Tools: Git | Azure Cloud | Azure DevOps | MySQL | QtDesigner | WPF | Winforms | .NET | React
 - Game Development: Unity | Godot | Monogame
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rk3026)](https://github.com/rk3026/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rk3026)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk3026&layout=compact)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rk3026)
-
-![snake gif](https://github.com/rk3026/rk3026/blob/output/github-contribution-grid-snake.svg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rk3026)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Connect with Me:
