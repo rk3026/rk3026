@@ -6,6 +6,8 @@ I like video games and making cool software.
 - Tools: Git | Azure Cloud | Azure DevOps | MySQL | QtDesigner | WPF | Winforms | .NET | React
 - Game Development: Unity | Godot | Monogame
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rk3026)](https://github.com/rk3026/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rk3026)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk3026&layout=compact)
